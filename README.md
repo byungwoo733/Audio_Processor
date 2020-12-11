@@ -20,6 +20,7 @@ Freedom Studio / Xilinx Vivado
 --------------------------------
 
 Simulator:
+
 Qemu
 
 emulsiV (A visual simulator for teaching computer architecture using the RISC-V instruction set)
