@@ -4,6 +4,7 @@ RTL & Audio Programming for Semi Custom Audio Processor Develoment
 # Architecture
 ARM Cortex M-Series (DesignStart Eval) & SiFive Freedom E31 & Custom RISC-V(Rocket Chip)
 
+# Mbed / FREERTOS
 --------------------------------
 
 [Development Tools]
