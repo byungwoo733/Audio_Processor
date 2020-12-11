@@ -10,7 +10,7 @@ ARM Cortex M-Series (DesignStart Eval) & SiFive Freedom E31 & Custom RISC-V(Rock
 [Development Tools]
 
 IDE / Audio Programming IDE:
-Visual Studio Code / Eclipse / EDA Playground
+Visual Studio Code / Eclipse / EDA Playground / Compiler Explorer
 
 --------------------------------
 
