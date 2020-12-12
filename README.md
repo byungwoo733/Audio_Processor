@@ -31,7 +31,7 @@ RISCV Interpreter
 --------------------------------
 
 Midi Program: 
-Sonic Pi / LMMS / Audacity
+Sonic Pi / LMMS / Audacity / Online Sequencer
 
 --------------------------------
 
